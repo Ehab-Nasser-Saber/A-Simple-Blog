@@ -13,3 +13,12 @@ BootStrap
 
 # Purpose Of The Project
 Building A Simple Blog With A Backend Server To Store Data
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
